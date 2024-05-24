@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PDF_Reader_MongoDB.props" />
+</Project>
